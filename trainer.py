@@ -266,7 +266,7 @@ class Trainer():
 
     def terminate(self):
         if self.args.test_only:
-            self.test()
+            self.test() # CUDA out of memory
             return True
         else:
             epoch = self.scheduler.last_epoch + 1
