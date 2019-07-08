@@ -47,3 +47,9 @@ loss/__pycache__/__init__.cpython-35.pyc
 model/__pycache__/__init__.cpython-35.pyc
 model/__pycache__/common.cpython-35.pyc
 model/__pycache__/metardn.cpython-35.pyc
+.vscode/launch.json
+__pycache__/trainer.cpython-36.pyc
+experiment/meta/config.txt
+experiment/metardn/model/model_500.pt
+__pycache__/trainer.cpython-36.pyc
+experiment/meta/config.txt
